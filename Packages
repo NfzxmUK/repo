@@ -1,13 +1,41 @@
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+
 Package: uk.nfzxm.hideyourapps
 Name: Hide Your Apps
 Version: 1.0.1
-Architecture: iphone-os-arm
-Description: Hide your apps from the home screen!
+Architecture: iphoneos-arm
+Description: Hide any app from the homescreen!
 Maintainer: Gregor Blue
 Author: Gregor Blue
-Section: Tweak
-Depends: 
-Filename: HideYourAppsGB.deb
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/uk.nfzxm.hideyourapps_1.0.1-2+debug_iphoneos-arm.deb
 Size: 6000
 MD5sum: 6862cbbe341a91348c1e5b92c14c90b7
 SHA1: 2A728248486C512F88400C6F82FEBAA04AEC5D95
