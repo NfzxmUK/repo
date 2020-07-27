@@ -1,0 +1,14 @@
+Package: uk.nfzxm.hideyourapps
+Name: Hide Your Apps
+Version: 1.0.1
+Architecture: iphone-os-arm
+Description: Hide your apps from the home screen!
+Maintainer: Gregor Blue
+Author: Gregor Blue
+Section: Tweak
+Depends: 
+Filename: HideYourAppsGB.deb
+Size: 6000
+MD5sum: 6862cbbe341a91348c1e5b92c14c90b7
+SHA1: 2A728248486C512F88400C6F82FEBAA04AEC5D95
+SHA256: 2ee9ea66cdf267cd8b22639e3d99b3bfacbb2619778eae3b384c6b0a1e1e04e9
