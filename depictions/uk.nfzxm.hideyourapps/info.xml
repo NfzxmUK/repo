@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>uk.nfzxm.hideyourapps</id>
+	<name>Hide Your Apps</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<maxiOS>13.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>mobilesubstrate (>= 0.9.5000)</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Hide any app from the homescreen!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
