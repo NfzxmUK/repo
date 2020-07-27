@@ -1,10 +1,10 @@
 <package>
-	<id>uk.nfzxm.hideyourapps</id>
+	<id>uk.nfzxm.dockremover</id>
 	<name>Hide Your Apps</name>
-	<version>1.0.0-1</version>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.6</maxiOS>
+			<maxiOS>11</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies>mobilesubstrate (>= 0.9.5000)</dependencies>
 	<descriptionlist>
-		<description>Hide any app from the homescreen!</description>
+		<description>A simple tweak to remove the dock's background.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
