@@ -1,8 +1,8 @@
-Origin: Nfzxm.uk's Repo
-Label: Nfzxm.uk's Repo
+Origin: The Nfzxm Repo
+Label: The Nfzxm Repo
 Suite: stable
-Version: 1.0
+Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Nfzxm.uk's Cydia Repo!
+Description: The cydia repo for Nfzxm.
