@@ -1,0 +1,1 @@
+A poorly written placeholder tweak written for nfzxm that removes your dock most of the time.

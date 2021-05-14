@@ -1,0 +1,12 @@
+Origin: Nfzxm Repo
+Label: Nfzxm Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The hub for nfzxm tweaks and themes.
+
+SHA256:
+ b59ed05076f7779d91c1181d781db7522bd7018847d4a78d03639a03d4d56e7c 602 Packages.bz2
+ ea0d3c5809fe1c3da2154c18a2eb530fa27ecf96410af2b1e21da000ee856aae 608 Packages.xz
