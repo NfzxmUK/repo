@@ -1,0 +1,8 @@
+Origin: The Nfzxm Repo
+Label: The Nfzxm Repo
+Suite: stable
+Version: 2.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The cydia repo for Nfzxm.
